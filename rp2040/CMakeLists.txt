@@ -8,7 +8,7 @@ set(BOOT_WORKAROUND ON)
 
 # Default output data pin for the non-SPI LED strips (only for sk6812/ws2812b)
 set(OUTPUT_DATA_PIN 14)
-set(SECOND_SEGMENT_DATA_PIN 10)
+set(SECOND_SEGMENT_DATA_PIN 11)
 
 # Use multi-segment, starting index of second led strip or OFF to disable
 set(SECOND_SEGMENT_INDEX 150)
